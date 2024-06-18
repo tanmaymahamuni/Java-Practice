@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\pun-iet\\DataMarch 2024\\CORE JAVA\\Java 1\\Day 6\\CoollectionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\pun-iet\\DataMarch 2024\\CORE JAVA\\Java 1\\Day 6\\CoollectionDemo\\src\\com\\demo\\test\\TestProductManagement.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\pun-iet\\DataMarch 2024\\CORE JAVA\\Java 1\\Day 6\\CoollectionDemo\\src\\com\\demo\\test\\TestProductArrayList.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\pun-iet\\DataMarch 2024\\CORE JAVA\\Java 1\\Day 6\\CoollectionDemo\\src\\com\\demo\\beans\\Product.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestProductArrayList.java",
+              "DocumentMoniker": "\\\\pun-iet\\DataMarch 2024\\CORE JAVA\\Java 1\\Day 6\\CoollectionDemo\\src\\com\\demo\\test\\TestProductArrayList.java",
+              "RelativeDocumentMoniker": "src\\com\\demo\\test\\TestProductArrayList.java",
+              "ToolTip": "\\\\pun-iet\\DataMarch 2024\\CORE JAVA\\Java 1\\Day 6\\CoollectionDemo\\src\\com\\demo\\test\\TestProductArrayList.java",
+              "RelativeToolTip": "src\\com\\demo\\test\\TestProductArrayList.java",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-05-09T21:51:05.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestProductManagement.java",
+              "DocumentMoniker": "\\\\pun-iet\\DataMarch 2024\\CORE JAVA\\Java 1\\Day 6\\CoollectionDemo\\src\\com\\demo\\test\\TestProductManagement.java",
+              "RelativeDocumentMoniker": "src\\com\\demo\\test\\TestProductManagement.java",
+              "ToolTip": "\\\\pun-iet\\DataMarch 2024\\CORE JAVA\\Java 1\\Day 6\\CoollectionDemo\\src\\com\\demo\\test\\TestProductManagement.java",
+              "RelativeToolTip": "src\\com\\demo\\test\\TestProductManagement.java",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-05-09T21:51:00.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.java",
+              "DocumentMoniker": "\\\\pun-iet\\DataMarch 2024\\CORE JAVA\\Java 1\\Day 6\\CoollectionDemo\\src\\com\\demo\\beans\\Product.java",
+              "RelativeDocumentMoniker": "src\\com\\demo\\beans\\Product.java",
+              "ToolTip": "\\\\pun-iet\\DataMarch 2024\\CORE JAVA\\Java 1\\Day 6\\CoollectionDemo\\src\\com\\demo\\beans\\Product.java",
+              "RelativeToolTip": "src\\com\\demo\\beans\\Product.java",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-05-09T21:45:07.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

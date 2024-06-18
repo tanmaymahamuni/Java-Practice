@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\com",
+    "\\bin\\com\\demo",
+    "\\bin\\com\\demo\\threads",
+    "\\src",
+    "\\src\\com",
+    "\\src\\com\\demo",
+    "\\src\\com\\demo\\beans",
+    "\\src\\com\\demo\\test",
+    "\\src\\com\\demo\\threads"
+  ],
+  "SelectedNode": "\\src\\com\\demo\\beans\\MyClass.java",
+  "PreviewInSolutionExplorer": false
+}

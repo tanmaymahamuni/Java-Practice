@@ -32,7 +32,7 @@ public class SalariedEmp extends Employee{
 	}
 	@Override
 	public double NetSalary() {
-		double netsal = this.salary+this.salary*0.1+this.salary*0.15-this.salary*0.08;
+		double netsal = salary+salary*0.1+salary*0.15-salary*0.08;
 		return netsal;
 	}
 	

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\com",
+    "\\src",
+    "\\src\\com",
+    "\\src\\com\\demo",
+    "\\src\\com\\demo\\beans",
+    "\\src\\com\\demo\\test"
+  ],
+  "SelectedNode": "\\src\\com\\demo\\test\\TestReflection.java",
+  "PreviewInSolutionExplorer": false
+}

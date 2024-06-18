@@ -32,7 +32,7 @@ public class Vendor extends Employee{
 	}
 	@Override
 	public double NetSalary() {
-		double netsal = this.amount*this.noofemp;
+		double netsal = amount*noofemp;
 		return netsal;
 	}
 	

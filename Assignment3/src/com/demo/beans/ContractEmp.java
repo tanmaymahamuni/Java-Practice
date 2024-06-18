@@ -32,7 +32,7 @@ public class ContractEmp extends Employee{
 	}
 	@Override
 	public double NetSalary() {
-		double netsal = this.hrs*this.charges;
+		double netsal = hrs*charges;
 		return netsal;
 	}
 	
